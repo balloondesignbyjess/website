@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Balloon Design by Jess</title>
-    <link>https://balloondesignbyjess.github.io/pages/</link>
+    <link>https://balloondesignbyjess.github.io/website/pages/</link>
     <description>Recent content in Pages on Balloon Design by Jess</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="https://balloondesignbyjess.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://balloondesignbyjess.github.io/website/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://balloondesignbyjess.github.io/about/</link>
+      <link>https://balloondesignbyjess.github.io/website/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://balloondesignbyjess.github.io/about/</guid>
+      <guid>https://balloondesignbyjess.github.io/website/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>https://balloondesignbyjess.github.io/history/</link>
+      <link>https://balloondesignbyjess.github.io/website/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>https://balloondesignbyjess.github.io/history/</guid>
+      <guid>https://balloondesignbyjess.github.io/website/history/</guid>
       <description>About Heading </description>
     </item>
     
