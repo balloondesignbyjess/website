@@ -1,4 +1,6 @@
-baseURL = "/"
+baseURL = "https://balloondesignbyjess.github.io/website"
+publishDir = "docs"
+
 languageCode = "en-us"
 title = "Balloon Design by Jess"
 themesDir = "themes"
@@ -8,18 +10,18 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "Balloon garlands, arches, columns and sculptures. Trending balloon design for parties, weddings, business, anniversaries and just because! Bay Area"
+    meta_description = "Balloon garlands, arches, columns and walls. Trending balloon design for parties, weddings, business, anniversaries and just because!"
     meta_og_title = "Balloon Design by Jess"
     meta_og_type = "website"
     meta_og_url = "https://balloondesignbyjess.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Balloon garlands, arches, columns and sculptures. Trending balloon design for parties, weddings, business, anniversaries and just because!"
-    #meta_twitter_card = "summary"
-    #meta_twitter_site = "@zerostaticio"
-    #meta_twitter_creator = "@zerostaticio"
+    meta_og_image = ""
+    meta_og_description = "Balloon garlands, arches, columns and walls. Trending balloon design for parties, weddings, business, anniversaries and just because!"
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
 
 [[menu.main]]
-	name = "Services"
+	name = "Balloon Designs"
     url = "/services/"
     weight = 1
 

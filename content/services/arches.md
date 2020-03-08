@@ -9,11 +9,5 @@ heroSubHeading: 'Arches can do more than frame an entrance.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Some paragaraph on what, where, how to use a garland. sfdsfdsf
-sdfsfsfdsdf sdfadsfsfd saf need at least this much text
 
-## Diff section header on garlands
-
-* Reason to have one
-* Another reason
-* Why not
+Balloon arches look amazing at the end of a race, over a swimming pool or just about anywhere.

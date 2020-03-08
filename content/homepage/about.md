@@ -1,9 +1,9 @@
 ---
-title: 'Why you need balloons'
+title: 'Balloons make everything better'
 weight: 2
 background: ''
 button: 'About'
 buttonLink: 'about'
 ---
 
-Balloon garlands, arches, columns and sculptures. Trending balloon design for parties, weddings, business, anniversaries and just because! Bay Area
+We only use eco-friendly and biodegradable balloons for our installations.

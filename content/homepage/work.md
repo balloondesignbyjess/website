@@ -1,10 +1,9 @@
 ---
-title: 'Header blah, blah'
+title: 'Balloons for any occasion'
 weight: 1
 background: 'images/hiclipart.com_pink_bundel.png'
-# background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Previous projects'
 buttonLink: 'work'
 ---
 
-Balloon garlands, arches, columns and sculptures. Trending balloon design for parties, weddings, business, anniversaries and just because! Bay Area
+Balloons are the perfect decor addition for any type of party or company event. We can help you with an overall design, planning and budget for any event in the Benicia area!
