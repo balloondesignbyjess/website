@@ -1,4 +1,4 @@
-baseURL = "https://balloondesignbyjess.github.io/website"
+baseURL = "https://balloondesignbyjess.github.io"
 publishDir = "docs"
 
 languageCode = "en-us"
