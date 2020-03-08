@@ -1,3 +1,45 @@
-baseURL = "http://example.org/"
+baseURL = "https://balloondesignbyjess.github.io/website"
+publishDir = "docs"
+
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Balloon Design by Jess"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Balloon garlands, arches, columns and walls. Trending balloon design for parties, weddings, business, anniversaries and just because!"
+    meta_og_title = "Balloon Design by Jess"
+    meta_og_type = "website"
+    meta_og_url = "https://balloondesignbyjess.com"
+    meta_og_image = ""
+    meta_og_description = "Balloon garlands, arches, columns and walls. Trending balloon design for parties, weddings, business, anniversaries and just because!"
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+	name = "Balloon Designs"
+    url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
